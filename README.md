@@ -1,6 +1,6 @@
-# Lionsbot_Terraform
-# created all resources using terraform 
-# execute all .tf file using the commannds
+#Lionsbot_Terraform
+#created all resources using terraform 
+#execute all .tf file using the commannds
 terraform init
 terraform plan
 terraform apply
